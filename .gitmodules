@@ -1,0 +1,9 @@
+[submodule "EvoMonitor"]
+	path = EvoMonitor
+	url = git@github.com:Schwank-Lab/evoflow-monitor.git
+[submodule "EvoGenotype"]
+	path = EvoGenotype
+	url = git@github.com:Schwank-Lab/evo-genotype.git
+[submodule "Evotool"]
+	path = Evotool
+	url = git@github.com:Schwank-Lab/evoflow-reactor.git
