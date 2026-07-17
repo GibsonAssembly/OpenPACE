@@ -6,7 +6,7 @@ Code, STL and Gerber files for EvoFlow and EvoSampler, together with the compani
 
 | Path | Contents |
 |------|----------|
-| `EvoFlow` | EvoFlow reactor — code, STL and Gerber files |
+| `EvoFlow` | EvoFlow reactor — STL and Gerber files |
 | `EvoSampler` | EvoSampler — code, STL and Gerber files |
 | `EvoMonitor` | Real-time monitoring dashboard (EvoHub appliance) — submodule of [Schwank-Lab/evoflow-monitor](https://github.com/Schwank-Lab/evoflow-monitor) |
 | `EvoGenotype` | PACE genotype-trajectory analysis CLI — submodule of [Schwank-Lab/evo-genotype](https://github.com/Schwank-Lab/evo-genotype) |
