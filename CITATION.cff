@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+title: OpenPACE
+abstract: >-
+  Hardware designs and software for OpenPACE, a compact, fully integrated
+  system for phage-assisted continuous evolution (PACE). Includes 3D-printable
+  files and PCB manufacturing files for the EvoFlow reactor and the EvoSampler,
+  together with the Evotool, EvoMonitor and EvoGenotype software.
+type: software
+message: >-
+  If you use this software, please cite both the software itself and the
+  protocol paper listed under preferred-citation.
+authors:
+  - family-names: Schmidheini
+    given-names: Lukas
+    affiliation: Institute of Pharmacology and Toxicology, University of Zurich, Zurich, Switzerland
+  - family-names: Melkonyan
+    given-names: Sasha
+    affiliation: Institute of Pharmacology and Toxicology, University of Zurich, Zurich, Switzerland
+  - family-names: Marquart
+    given-names: Kim F.
+    affiliation: Institute of Pharmacology and Toxicology, University of Zurich, Zurich, Switzerland
+  - family-names: Mirata
+    given-names: Graziano
+    affiliation: Institute of Pharmacology and Toxicology, University of Zurich, Zurich, Switzerland
+  - family-names: Schwank
+    given-names: Gerald
+    affiliation: Institute of Pharmacology and Toxicology, University of Zurich, Zurich, Switzerland
+license: MIT
+repository-code: https://github.com/GibsonAssembly/OpenPACE
+version: 1.0.0
+date-released: '2026-09-22'
+keywords:
+  - phage-assisted continuous evolution
+  - PACE
+  - directed evolution
+  - turbidostat
+  - open-source hardware
+# After the Zenodo deposit is published, add the concept DOI here, e.g.:
+# doi: 10.5281/zenodo.XXXXXXX
+preferred-citation:
+  type: article
+  title: Fully integrated phage-assisted continuous evolution with OpenPACE
+  authors:
+    - family-names: Schmidheini
+      given-names: Lukas
+    - family-names: Melkonyan
+      given-names: Sasha
+    - family-names: Marquart
+      given-names: Kim F.
+    - family-names: Mirata
+      given-names: Graziano
+    - family-names: Schwank
+      given-names: Gerald
+  journal: Nature Protocols
+  year: 2026
