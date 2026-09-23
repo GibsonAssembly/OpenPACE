@@ -29,14 +29,13 @@ license: MIT
 repository-code: https://github.com/GibsonAssembly/OpenPACE
 version: 1.0.0
 date-released: '2026-09-22'
+doi: 10.5281/zenodo.22912075
 keywords:
   - phage-assisted continuous evolution
   - PACE
   - directed evolution
   - turbidostat
   - open-source hardware
-# After the Zenodo deposit is published, add the concept DOI here, e.g.:
-# doi: 10.5281/zenodo.XXXXXXX
 preferred-citation:
   type: article
   title: Fully integrated phage-assisted continuous evolution with OpenPACE
