@@ -16,6 +16,9 @@ authors:
   - family-names: Melkonyan
     given-names: Sasha
     affiliation: Institute of Pharmacology and Toxicology, University of Zurich, Zurich, Switzerland
+  - family-names: Müller
+    given-names: Saphira
+    affiliation: Institute of Pharmacology and Toxicology, University of Zurich, Zurich, Switzerland
   - family-names: Marquart
     given-names: Kim F.
     affiliation: Institute of Pharmacology and Toxicology, University of Zurich, Zurich, Switzerland
@@ -44,6 +47,8 @@ preferred-citation:
       given-names: Lukas
     - family-names: Melkonyan
       given-names: Sasha
+    - family-names: Müller
+      given-names: Saphira
     - family-names: Marquart
       given-names: Kim F.
     - family-names: Mirata
